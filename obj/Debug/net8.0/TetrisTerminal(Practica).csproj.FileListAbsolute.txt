@@ -1,0 +1,15 @@
+C:\Users\MEDAC\Source\Repos\TetrisTerminalC-\bin\Debug\net8.0\TetrisTerminal(Practica).exe
+C:\Users\MEDAC\Source\Repos\TetrisTerminalC-\bin\Debug\net8.0\TetrisTerminal(Practica).deps.json
+C:\Users\MEDAC\Source\Repos\TetrisTerminalC-\bin\Debug\net8.0\TetrisTerminal(Practica).runtimeconfig.json
+C:\Users\MEDAC\Source\Repos\TetrisTerminalC-\bin\Debug\net8.0\TetrisTerminal(Practica).dll
+C:\Users\MEDAC\Source\Repos\TetrisTerminalC-\bin\Debug\net8.0\TetrisTerminal(Practica).pdb
+C:\Users\MEDAC\Source\Repos\TetrisTerminalC-\obj\Debug\net8.0\TetrisTerminal(Practica).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MEDAC\Source\Repos\TetrisTerminalC-\obj\Debug\net8.0\TetrisTerminal(Practica).AssemblyInfoInputs.cache
+C:\Users\MEDAC\Source\Repos\TetrisTerminalC-\obj\Debug\net8.0\TetrisTerminal(Practica).AssemblyInfo.cs
+C:\Users\MEDAC\Source\Repos\TetrisTerminalC-\obj\Debug\net8.0\TetrisTerminal(Practica).csproj.CoreCompileInputs.cache
+C:\Users\MEDAC\Source\Repos\TetrisTerminalC-\obj\Debug\net8.0\TetrisTerminal(Practica).sourcelink.json
+C:\Users\MEDAC\Source\Repos\TetrisTerminalC-\obj\Debug\net8.0\TetrisTerminal(Practica).dll
+C:\Users\MEDAC\Source\Repos\TetrisTerminalC-\obj\Debug\net8.0\refint\TetrisTerminal(Practica).dll
+C:\Users\MEDAC\Source\Repos\TetrisTerminalC-\obj\Debug\net8.0\TetrisTerminal(Practica).pdb
+C:\Users\MEDAC\Source\Repos\TetrisTerminalC-\obj\Debug\net8.0\TetrisTerminal(Practica).genruntimeconfig.cache
+C:\Users\MEDAC\Source\Repos\TetrisTerminalC-\obj\Debug\net8.0\ref\TetrisTerminal(Practica).dll

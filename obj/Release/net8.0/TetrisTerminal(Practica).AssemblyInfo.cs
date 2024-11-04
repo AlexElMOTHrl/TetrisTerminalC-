@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("TetrisTerminal(Practica)")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71b25d8ddc77ba25797a4d7e5eac20e1ce53f9a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("TetrisTerminal(Practica)")]

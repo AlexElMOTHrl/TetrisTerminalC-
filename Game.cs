@@ -16,7 +16,8 @@ class Game
 		renderer = new Renderer();
 		isRunning = true;
 
-		board.ClearBoard();
+		//board.FillBoard(0);
+		board.CheckersFill();
 	}
 
 	public void Start()

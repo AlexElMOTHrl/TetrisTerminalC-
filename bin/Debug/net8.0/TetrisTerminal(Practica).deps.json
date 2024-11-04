@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TetrisTerminal(Practica)/1.0.0": {
+        "runtime": {
+          "TetrisTerminal(Practica).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TetrisTerminal(Practica)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
